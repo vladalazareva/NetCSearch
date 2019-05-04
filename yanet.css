@@ -1,0 +1,83 @@
+.container{
+}
+.news{}
+.header-news{
+	display: flex;
+	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-left: 184px;
+}
+div#new{
+}
+input#newdlgp{
+	background: #fff; /* запасной цвет для старых браузеров */
+	background: rgba(255, 255, 255, 0.5);
+	border-color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	padding: 5px;
+	border-width:0px;
+	font-weight: bolder;
+	color: powderblue;
+}
+input#newwrld{
+	background: #fff; /* запасной цвет для старых браузеров */
+	background: rgba(255, 255, 255, 0.5);
+	border-color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	padding: 5px;
+	border-width:0px;
+	font-weight: bolder;
+	color: blue;
+}
+.main-news{
+	display: flex;
+	font-size: 18px;
+	margin-left: 150px;
+	margin-top: -15px;
+}
+.world{
+	display: block;
+	line-height: 25px;
+}
+.dolgopa{
+	display: none;
+	line-height: 25px;
+}
+.search{
+	display: flex;
+	flex-direction: row;	
+}
+img{
+	margin-top: 32px;
+	width: 190px;
+	height: 55px;
+	margin-left: 50px;
+	padding-right: 30px;
+}
+.tabs-and-input{
+	display: inline-table;
+}
+.tabs{
+	flex-direction: row;	
+	font-size: 20px;
+	color: blue;
+	padding: 10px;
+}
+.input-form{
+	background-color: yellow;
+	padding: 5px;
+}
+.search-input{
+    border-collapse: collapse;
+	width: 605px;
+	height: 30px;
+}
+.button-input{
+	display: inline-table;
+    border-collapse: collapse;
+	width: 100px;
+	height: 36px;
+	background-color: yellow;
+	border-color: rgba(255,219,76,0);
+	font-size: 20px;
+}
