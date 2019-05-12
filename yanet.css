@@ -51,27 +51,11 @@ div#newwrld{
 	margin-left: 150px;
 	margin-top: -15px;
 }
-a#firstW{
+.world a{
 	text-decoration: none;
 	color: black;
 }
-a#secondW{
-	text-decoration: none;
-	color: black;
-}
-a#thirdW{
-	text-decoration: none;
-	color: black;
-}
-a#firstD{
-	text-decoration: none;
-	color: black;
-}
-a#secondD{
-	text-decoration: none;
-	color: black;
-}
-a#thirdD{
+.dolgopa a{
 	text-decoration: none;
 	color: black;
 }
